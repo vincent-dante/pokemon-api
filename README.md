@@ -4,7 +4,7 @@ Hi there 👋 this is my personal project using Poké APIs.
 
 ## Live preview
 
-https://poke-api-vincentdante.up.railway.app/#/
+https://pokemon-api-vincent-dante.vercel.app/
 
 ## Tech Stacks
 
